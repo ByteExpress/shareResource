@@ -1,0 +1,3 @@
+pip install flask sqlalchemy pyyaml pymysql psycopg2-binary pyodbc cx_oracle
+# 安装常用数据库驱动
+pip install mysqlclient psycopg2-binary pyodbc cx_Oracle
